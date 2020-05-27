@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9d141aa-700b-4685-9168-3d61f2cd9c4f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cTm7zOHViTnHN1oykB8qIqY9Qn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.st1">
+    <configuration name="Stock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stock" />
+      <module name="20200527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stock1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stock1" />
+      <module name="20200527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockSpanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StockSpanner" />
+      <module name="20200527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestObj" />
+      <module name="20200527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="st1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="st1" />
+      <module name="20200527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.st1" />
+        <item itemvalue="Application.Stock1" />
+        <item itemvalue="Application.Stock" />
+        <item itemvalue="Application.StockSpanner" />
+        <item itemvalue="Application.TestObj" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9d141aa-700b-4685-9168-3d61f2cd9c4f" name="Default Changelist" comment="" />
+      <created>1590560793135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590560793135</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="674" height="208" key="GridCell.Tab.0.bottom" timestamp="1590588793831">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="674" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590588793831" />
+    <state width="674" height="208" key="GridCell.Tab.0.center" timestamp="1590588793831">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="674" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590588793831" />
+    <state width="674" height="208" key="GridCell.Tab.0.left" timestamp="1590588793830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="674" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590588793830" />
+    <state width="674" height="208" key="GridCell.Tab.0.right" timestamp="1590588793831">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="674" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590588793831" />
+  </component>
+</project>
