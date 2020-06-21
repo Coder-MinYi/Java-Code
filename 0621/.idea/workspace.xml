@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ea52f81-17d3-4b07-b7ab-85a56a0ce74b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dc2gDJ98WfAzFp0kIfoHqXE1HU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.SendValue">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="0621" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBlockingQueueMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyBlockingQueueMain2" />
+      <module name="0621" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SendValue" />
+      <module name="0621" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="0621" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SendValue" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MyBlockingQueueMain2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ea52f81-17d3-4b07-b7ab-85a56a0ce74b" name="Default Changelist" comment="" />
+      <created>1592710169728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592710169728</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="698" height="258" key="GridCell.Tab.0.bottom" timestamp="1592745242160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="698" height="258" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592745242160" />
+    <state width="698" height="258" key="GridCell.Tab.0.center" timestamp="1592745242160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="698" height="258" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592745242160" />
+    <state width="698" height="258" key="GridCell.Tab.0.left" timestamp="1592745242160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="698" height="258" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592745242160" />
+    <state width="698" height="258" key="GridCell.Tab.0.right" timestamp="1592745242160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="698" height="258" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592745242160" />
+    <state width="698" height="258" key="GridCell.Tab.1.bottom" timestamp="1592745242160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="698" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592745242160" />
+    <state width="698" height="258" key="GridCell.Tab.1.center" timestamp="1592745242160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="698" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592745242160" />
+    <state width="698" height="258" key="GridCell.Tab.1.left" timestamp="1592745242160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="698" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592745242160" />
+    <state width="698" height="258" key="GridCell.Tab.1.right" timestamp="1592745242160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="698" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592745242160" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SendValue.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
