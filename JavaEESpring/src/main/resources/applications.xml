@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="myname" class="java.lang.String">
+        <constructor-arg value="小比特" />
+    </bean>
+<!--    <bean class="java.lang.String"></bean>-->
+
+    <bean id="b1" class="MinYi.Duck">
+        <property name="name" value="gaga" />
+        <property name="age"  value="90" />
+    </bean>
+
+    <bean id="c1" class="MinYi.Duck2">
+        <constructor-arg name="n" value="gaga" />
+        <constructor-arg name="a"  value="90" />
+    </bean>
+</beans>
